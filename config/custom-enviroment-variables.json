@@ -1,3 +1,4 @@
 {
-    "jwtPrivateKey": "emvents_jwtPrivateKey"
+    "jwtPrivateKey": "emvents_jwtPrivateKey",
+    "db": "emvents_db"
 }
